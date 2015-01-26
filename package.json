@@ -1,0 +1,7 @@
+{
+  "name": "chat-sample",
+  "version": "0.0.1",
+  "description": "chat service with io.js & socket.io",
+  "dependencies": {
+  }
+}
